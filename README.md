@@ -5,12 +5,16 @@ Este projeto permite capturar screenshots de páginas da web usando **Puppeteer*
 **`ebackend/`**:Contém o código do servidor Node.js.
    /contem
 - -**`server.js`**: O arquivo principal do backend. Configura o servidor e a rota para capturar screenshots.
+ 
+**src**
+   /cotem
+--**assets**
   
 **assets**
    /contem
   - - **`App.jsx`**: O componente principal do frontend.
   - - **`component`**: Pasta de componentes principais para aplicaçao.
-    - 
+    
 **component**
    /contem
 - - **`PrintPage.css`**:estilos da PrintPage.jsx
