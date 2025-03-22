@@ -20,4 +20,34 @@ Este projeto permite capturar screenshots de páginas da web usando **Puppeteer*
 - - **`PrintPage.css`**:estilos da PrintPage.jsx
 - - **`PrintPage.jsx`**: O componente React que gerencia a interface do usuário.
   
+**Tecnologias Utilizadas**
 
+- - **`Frontend: React + Vite`**
+
+- - **`Backend: Node.js + Express + Puppeteer`**
+
+- - **`Estilização: CSS`**
+
+**Rodando o Backend**
+
+- - **`cd backend`**
+    
+- - **`npm install`**
+    
+- - **`node server.js`**
+ 
+     Rodando o Frontend
+- - **`cd print_de_sites`**
+    
+- - **`npm install`**
+    
+- - **`npm run dev`**
+    
+**Como Usar**
+Insira a URL do site desejado.
+
+Clique em "Tirar Print".
+
+Aguarde a captura da imagem.
+
+Baixe a imagem clicando no botão "Baixar Imagem".
