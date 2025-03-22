@@ -8,7 +8,7 @@ Este projeto permite capturar screenshots de páginas da web usando **Puppeteer*
  
 **src**
    /cotem
---**assets**
+- -**assets**
   
 **assets**
    /contem
