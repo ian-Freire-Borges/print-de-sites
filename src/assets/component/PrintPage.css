@@ -1,0 +1,65 @@
+/* Estilo do botão "Capturar Print" */
+#buttonPrint {
+    margin: 3rem;
+    opacity: 0.8;
+    background-color: rgb(222, 222, 218);
+    border: 1px solid black;
+    
+}
+
+/* Estilo do container principal */
+#container-principal {
+    background-color: rgb(242, 242, 243);
+    
+
+}
+
+/* Estilo do título principal */
+#container-principal h1{
+    display: flex;
+    justify-content: center; 
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+/* Efeito de hover no botão "Capturar Print" */
+#buttonPrint:hover {
+ opacity: 1;
+}
+
+/* Estilo do container secundário */
+#container-secundario {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    justify-content: center; 
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+
+/* Estilo do botão de download  oculto no começo */
+#download-button {
+    margin-top: 2rem; 
+    align-self: center; 
+    opacity: 0.8;
+    background-color: rgb(222, 222, 218);
+    border: 1px solid black;
+}
+
+/* Efeito de hover no botão de download quando visível */
+#download-button:hover{
+    opacity: 1;
+}
+/*Estilo da visualizaçao do print*/
+#img-print{
+    align-self: center;
+    margin-top: 2rem;
+    max-width: 70%;
+    border: 1px solid #000;
+}
+
+
+
